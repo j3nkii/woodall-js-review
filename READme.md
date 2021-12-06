@@ -2,9 +2,9 @@
 
 Todal we'll learn
 
--data types
--varaibles
--operators
--conditionsals
--loops
--functions
+- data types
+- varaibles
+- operators
+- conditionsals
+- loops
+- git functions
